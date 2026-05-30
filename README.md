@@ -3,4 +3,4 @@ learning github
 <br>
 this is my first repo
 <br>
-author-Ramcharan Reddy
+author-Ramcharan(git learning)
